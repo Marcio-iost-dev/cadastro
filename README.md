@@ -1,0 +1,2 @@
+# cadastro
+aprendendo python + sqlite
